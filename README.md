@@ -1,7 +1,6 @@
 # Codex Notes 🧠
 
 Proyecto de ejemplo para demostrar cómo GitHub Copilot puede ayudarte a programar.
-
 ## Funciones
 
 - Crear, leer, listar y eliminar notas en un archivo JSON.
